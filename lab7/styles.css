@@ -1,0 +1,8 @@
+body {
+    font-family: Arial;
+  }
+
+  h1,form {
+    margin-top: 10px;
+    text-align: center;
+  }
